@@ -28,4 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## DEPLOY
 
-https://budgetapp12.netlify.app/ingresarPresupuesto
+https://budgetapp12.netlify.app
